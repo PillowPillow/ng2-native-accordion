@@ -1,7 +1,7 @@
 {
 	"name": "ng2-native-accordion",
-	"version": "1.0.0",
-	"description": "angular2 accordion - no jquery",
+	"version": "1.0.1",
+	"description": "angular2 accordion component - no dependency",
 	"main": "bundles/core.umd.js",
 	"module": "index.js",
 	"typings": "index.d.ts",
@@ -48,8 +48,8 @@
 		"typescript",
 		"angular2",
 		"ng2",
-		"localstorage",
-		"sessionStorage"
+		"component",
+		"accordion"
 	],
 	"author": "Nicolas Gaignoux <https://github.com/PillowPillow>",
 	"license": "MIT",
