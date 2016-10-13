@@ -1,0 +1,1 @@
+{"version":3,"file":"state.js","sourceRoot":"","sources":["../../lib/consts/state.ts"],"names":[],"mappings":"AAAA,OAAO,IAAM,KAAK,GAAG;IACpB,IAAI,EAAE,MAAM;IACZ,UAAU,EAAE,YAAY;IACxB,SAAS,EAAE,WAAW;CACtB,CAAC","sourcesContent":["export const State = {\r\n\tOpen: 'open',\r\n\tCollapsing: 'collapsing',\r\n\tCollapsed: 'collapsed'\r\n};\r\n"]}

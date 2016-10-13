@@ -39,7 +39,7 @@ export class Accordion {
 	protected set collapse(value:boolean) { this.toggle(value); };
 
 	@Output()
-	protected stateChange:EventEmitter = new EventEmitter();
+	protected stateChange:EventEmitter<Boolean> = new EventEmitter();
 
 	@Input()
 	protected set duration(duration:number) {

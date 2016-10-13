@@ -1,0 +1,1 @@
+{"version":3,"file":"accordionStyle.js","sourceRoot":"","sources":["../../lib/consts/accordionStyle.ts"],"names":[],"mappings":"AAAA,OAAO,IAAM,cAAc,GAAG;IAC7B,MAAM,EAAE,QAAQ;IAChB,QAAQ,EAAE,oBAAoB;CAC9B,CAAC","sourcesContent":["export const AccordionStyle = {\r\n\tHeight: 'height',\r\n\tDuration: 'transitionDuration'\r\n};\r\n"]}

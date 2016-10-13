@@ -1,0 +1,1 @@
+{"version":3,"file":"accordionStyle.js","sourceRoot":"","sources":["../../lib/interfaces/accordionStyle.ts"],"names":[],"mappings":"","sourcesContent":["export interface AccordionStyleI {\r\n\theight?:string,\r\n\ttransitionDuration:string\r\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"stateClass.js","sourceRoot":"","sources":["../../lib/interfaces/stateClass.ts"],"names":[],"mappings":"","sourcesContent":["export interface StateClassI {\r\n\topen:boolean,\r\n\tcollapsing:boolean,\r\n\tcollapsed:boolean\r\n}\r\n"]}
