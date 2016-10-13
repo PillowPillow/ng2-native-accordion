@@ -1,6 +1,6 @@
 {
 	"name": "ng2-native-accordion",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "angular2 accordion - no jquery",
 	"main": "bundles/core.umd.js",
 	"module": "index.js",
